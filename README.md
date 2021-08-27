@@ -5,6 +5,10 @@ interface básica (sem GUI), apenas modo texto simples, e as funcionalidades de 
 **segunda parte**
 integralização com uma GUI
 
+**terceira parte**
+ funcionalidade de alternar entre reprodução aleatória e reprodução sequencial
+
+
 @RESTRIÇÕES@
 O uso de métodos e estruturas que abstraem o gerenciamento das threads e o controle de concorrência é proibido. Exemplo:
 synchronized
